@@ -22,3 +22,27 @@ In the JS code:
     Define a function which is called onClick of the button which will save the filtered image.    
 
 }
+
+
+
+Project 115{
+    
+Things to add in the main.js file:
+
+    Add code for accessing the webcam       Done
+
+    DON’T forget to hide the extra component created by p5.js for webcam live view.      Done
+
+    Also put this webcam live view on the canvas.    Done
+
+    Add code for initializing posenet.   Done
+
+    Define modelLoaded() function, to check if posenet is initialized.  Done
+
+    Add code for executing posenet.
+
+    Write gotposes() function, which will hold coordinates of 17 body parts.
+
+    Write code for reading x and y coordinates of the nose.
+
+}
